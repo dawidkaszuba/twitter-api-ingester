@@ -1,9 +1,9 @@
-token = AAAAAAAAAAAAAAAAAAAAAKAXaQEAAAAA5G5nf%2F3273p4INZaLkSrUYz75bg%3D56o7k3lC7QGs2sBSP5YB8DUNWwZ1RcpFr7GnIPZ51uPBe41mFJ
+token =
 
 spring.jpa.hibernate.ddl-auto=create
 spring.datasource.url=jdbc:mysql://localhost:3306/twitter?useTimezone=true
-spring.datasource.username=dawid
-spring.datasource.password=password
+spring.datasource.username=
+spring.datasource.password=
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 spring.jpa.show-sql= false
 spring.jpa.generate-ddl=true
